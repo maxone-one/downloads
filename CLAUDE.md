@@ -23,3 +23,7 @@ Jedes Release trägt sein Projekt im Tag nach dem Schema `<projekt>-v<version>`,
 | Pfad | Inhalt |
 |---|---|
 | `README.md` | die gesamte Ordnung des Kanals: Zweck, Grenzen von GitHub, Benennung, Verlinkung |
+
+## Rollen: Maker und Enabler (Max, 13.10.2026)
+
+Max wörtlich: „Du bist Maker und Executor, ich bin Enabler.“ **Der Coding Agent führt jeden Handgriff selbst aus** (aufladen, einrichten, anmelden, klicken, einspielen), Max ermöglicht ihn mit Freigabe, Zugang und Budget. Zurück an Max geht nur, was kein Werkzeug des Coding Agent erreicht, mit dem Beleg des Versuchs. Freigabepflichten bleiben, die Ausführung gehört dem Coding Agent. Ergänzt Punkt 2 und 3 der globalen CLAUDE.md.
