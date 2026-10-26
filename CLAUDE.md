@@ -27,3 +27,7 @@ Jedes Release trägt sein Projekt im Tag nach dem Schema `<projekt>-v<version>`,
 ## Rollen: Maker und Enabler (Max, 13.10.2026)
 
 Max wörtlich: „Du bist Maker und Executor, ich bin Enabler.“ **Claude führt jeden Handgriff selbst aus** (aufladen, einrichten, anmelden, klicken, einspielen), Max ermöglicht ihn mit Freigabe, Zugang und Budget. Zurück an Max geht nur, was kein Werkzeug von Claude erreicht, mit dem Beleg des Versuchs. Freigabepflichten bleiben, die Ausführung gehört Claude. Ergänzt Punkt 2 und 3 der globalen CLAUDE.md.
+
+## Fenster nie in den Vordergrund (Max, 26.10.2026)
+
+Kein Fenster, kein Tab und kein Dialog wird in den Vordergrund geholt. Gearbeitet wird im Hintergrund, damit Max ungestört arbeiten kann. Globale Regel: `~/.claude/rules/fenster-nie-in-den-vordergrund.md`, CLAUDE.md Punkt 2i.
